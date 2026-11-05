@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+dg01,Mirror Room,pack-local equal-tempered pitch collection,C,122,4/4,480,32,61440,midi/dg01-mirror-room/dg01-mirror-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dg02,Velvet Steps,pack-local equal-tempered pitch collection,D#,122,4/4,480,32,61440,midi/dg02-velvet-steps/dg02-velvet-steps-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dg03,Late Shimmer,pack-local equal-tempered pitch collection,F#,122,4/4,480,32,61440,midi/dg03-late-shimmer/dg03-late-shimmer-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+dg04,Golden Exit,pack-local equal-tempered pitch collection,C#,122,4/4,480,32,61440,midi/dg04-golden-exit/dg04-golden-exit-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

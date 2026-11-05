@@ -1,0 +1,26 @@
+{
+  "title": "Disco House Grooves",
+  "study": "dg01",
+  "bpm": 122,
+  "source_audio": "preview/disco-house-grooves-simple-synth-preview.mp3",
+  "source_audio_sha256": "c2fd816392af83007255b92a9d4af570043be9a53b5718bb24510d699b52d31b",
+  "source_midi": "midi/dg01-mirror-room/dg01-mirror-room-combined.mid",
+  "source_midi_sha256": "9657e3f08c0ee68840d92dc503d4599d2847feabbe796c903fef3fbd8302fcd6",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "8619eb52e42626d10ce32e0f3892144d928bf5d6ad320158ec54cba070b1a600",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "34382b3e389f4c70e6b0f29866022ba0cfb2a87cbfe030fa05b773085ea9d72e",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "948c775bb7d211bb177ef0d4b82597641a75585937557a6de032535f011e9957",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
