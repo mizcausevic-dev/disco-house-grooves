@@ -76,6 +76,20 @@ def main():
                             if kind == "sub_bass" and study_index and local // release.BAR_TICKS == study_index and local % release.BAR_TICKS == 0:
                                 continue
                             notes.append((local, min(event["duration"], END-local), event["pitch"], event["velocity"]))
+                if args.pack == "disco-house-grooves" and kind == "chords":
+                    # Offbeat chord stabs move between inversions while the
+                    # variation changes where the response is left open.
+                    notes = []
+                    for bar in range(4):
+                        base_chord = sorted(study["chords"][(bar + variation) % 4])
+                        for hit, offset in enumerate((240, 720, 1200, 1680)):
+                            if hit == (bar + variation) % 4 and (bar + study_index) % 2:
+                                continue
+                            chord = base_chord[:]
+                            for _ in range((study_index + bar + hit + variation) % len(chord)):
+                                chord = chord[1:] + [chord[0] + 12]
+                            for pitch in chord:
+                                notes.append((bar * release.BAR_TICKS + offset, 180 + 30 * ((hit + variation) % 2), pitch, 70 + 6 * ((hit + bar + study_index) % 4)))
                 if not notes:
                     raise ValueError(f"Empty clip: {study['id']} {kind} {variation}")
                 label = "chord-progression" if kind == "chords" else ("bass-hook" if kind == "sub_bass" else "melody")
