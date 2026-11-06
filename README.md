@@ -61,3 +61,7 @@ To regenerate media after rebuilding, preserve the source image and run `python 
 ## Chord clip revision
 
 The current archive includes 16 recomposed chord clips. The original `v1.0.0` tag preserves the earlier release. See [REVISION.md](REVISION.md) for verification and review limits.
+
+## Bass clip revision
+
+The current archive includes revised four-bar bass clips. The full studies and previews are unchanged. See [REVISION.md](REVISION.md).

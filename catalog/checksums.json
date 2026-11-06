@@ -54,7 +54,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 4044,
-      "sha256": "8b5046bd907c40ffd22b67d2d3e028904f58e71dc34e40b88c700f367bc8ca13"
+      "sha256": "1709e95225943f30ca27121acaa30d6f9a217db832f88de8ad5c8df72dd02115"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -113,23 +113,23 @@
     },
     {
       "path": "clips/dg01-bass-hook-01.mid",
-      "bytes": 222,
-      "sha256": "97681cc98d07365fd55a811c77d633f09917af6f06892450ec595ace88b40ea7"
+      "bytes": 208,
+      "sha256": "05395094e85e5feff645e7a5024d91fa6a08624bc4639d533570c0d01af095a3"
     },
     {
       "path": "clips/dg01-bass-hook-02.mid",
-      "bytes": 222,
-      "sha256": "5a68009a8eabf0e1b73f508f5d67b8cd970799b5cf75bc23eea0a8844ed79f2e"
+      "bytes": 209,
+      "sha256": "e235079e5f29d1f293d69f519a4c634eeae779b6dcb53d08b90fa66fdf331000"
     },
     {
       "path": "clips/dg01-bass-hook-03.mid",
-      "bytes": 222,
-      "sha256": "371f36b2fcc7efcef1342a2d91d61e17d39f24be9210bbf6a709188c2b7ff28d"
+      "bytes": 207,
+      "sha256": "d08c3e0788a1252868ca778b76e8d11a6837c23448a5bb7d26e5fb39c01a36a0"
     },
     {
       "path": "clips/dg01-bass-hook-04.mid",
-      "bytes": 222,
-      "sha256": "cda3c11a5911b80d4392d3642b1a81f43ee8d1f89bd2d9e7280994397a0d3cbb"
+      "bytes": 209,
+      "sha256": "741e6db468041808dddb411c18e748b69bfed5db0a4ad56c57d82507d75cddba"
     },
     {
       "path": "clips/dg01-chord-progression-01.mid",
@@ -153,23 +153,23 @@
     },
     {
       "path": "clips/dg02-bass-hook-01.mid",
-      "bytes": 212,
-      "sha256": "9aa878c25c906fc225608f802096c300a0795a11a890f2b9010cf93f7331965f"
+      "bytes": 208,
+      "sha256": "98cecf8cacd3fa8eb1437e9ab9d6358090dedcf8b8b1e9b85567d89fef515b1f"
     },
     {
       "path": "clips/dg02-bass-hook-02.mid",
-      "bytes": 212,
-      "sha256": "76aa5f8709079803b92f97caa5a5994ed87d4c24ce018eb73ddefb97279acbcf"
+      "bytes": 209,
+      "sha256": "fd7959ca5c9c977879d44bc3d10cbc5371aa7be478b1972e15b74178b8b41b81"
     },
     {
       "path": "clips/dg02-bass-hook-03.mid",
-      "bytes": 212,
-      "sha256": "10a81c3519034769881d19efd45af242747607f9c405edcb3d6dd4c8237307fd"
+      "bytes": 207,
+      "sha256": "40d54ea81148307e29f14151f07e387f19b892eb523a7a1e62ceb1d244c81a87"
     },
     {
       "path": "clips/dg02-bass-hook-04.mid",
-      "bytes": 212,
-      "sha256": "35e9f6c8e8c9455ca2b8bba933fe90425cdeecd4148a0b21c34e5ade667feac3"
+      "bytes": 209,
+      "sha256": "dcde660e6e9587343d25d256e49bd3a33981eda4634671f514041eeaa5d160e3"
     },
     {
       "path": "clips/dg02-chord-progression-01.mid",
@@ -193,23 +193,23 @@
     },
     {
       "path": "clips/dg03-bass-hook-01.mid",
-      "bytes": 212,
-      "sha256": "b20a460cb39ddaedf65becbaa406bd8c598028c623f97d3576a373e561eed105"
+      "bytes": 208,
+      "sha256": "5bbdf7f1eaa0f79678a7ab3f077f52515aa5f2dcea2aae90841bef125a0a3351"
     },
     {
       "path": "clips/dg03-bass-hook-02.mid",
-      "bytes": 212,
-      "sha256": "8c75635977de69f3a7535caf007eb6c44158cad77006e7f67b4c93440665d7f0"
+      "bytes": 209,
+      "sha256": "5e84b5e300221b9fec4cc9f115f6b4f3a361e69199f97cb98f97bb06243ede18"
     },
     {
       "path": "clips/dg03-bass-hook-03.mid",
-      "bytes": 212,
-      "sha256": "1eace74347672b31338a422d3d13ea3bcebc43480256bea0a32f6f28b725ff9c"
+      "bytes": 207,
+      "sha256": "0c6e3b3bb2844cdfafb4fa2fc2163848dd3ad5ac8adf893990cb7f2d69c9a2ab"
     },
     {
       "path": "clips/dg03-bass-hook-04.mid",
-      "bytes": 212,
-      "sha256": "a40bd9ef7cfdb424906b9486909309ab7fca0dc40b1db83813032b244c5de9cf"
+      "bytes": 209,
+      "sha256": "3cce10f7c7120a0e0e93f626fb9adbdd2389769ab78dc7b4469f3626dc489b17"
     },
     {
       "path": "clips/dg03-chord-progression-01.mid",
@@ -233,23 +233,23 @@
     },
     {
       "path": "clips/dg04-bass-hook-01.mid",
-      "bytes": 212,
-      "sha256": "49d74d83607c23841131a51f504b559aeb49f800b8ed67813522ac02cc5ae090"
+      "bytes": 208,
+      "sha256": "1b8940b40799bf057cc565707ccb80ff63ab00c722717865f18dfe07cc446d56"
     },
     {
       "path": "clips/dg04-bass-hook-02.mid",
-      "bytes": 212,
-      "sha256": "775561f4222aadc63f4f0cc21e9bb75514742d703060b6cfc5f9ef58bcf0d361"
+      "bytes": 209,
+      "sha256": "32895263dd486f02e149428e505450bcd19b3196dc065e6acc0e1f89071401a9"
     },
     {
       "path": "clips/dg04-bass-hook-03.mid",
-      "bytes": 212,
-      "sha256": "4b2c521221fe3984b63386431fbe21d56edd10d9420da390a437e5d3ba76b740"
+      "bytes": 207,
+      "sha256": "7104ad4c5bc81b928b01a96c0c870727d5404af55775068e50f8a2e4e7d5ac69"
     },
     {
       "path": "clips/dg04-bass-hook-04.mid",
-      "bytes": 212,
-      "sha256": "a6b0973cae6b2a3ba5f072bcfb3fb06427a855b2ec58465bcbcc9109f5242ebb"
+      "bytes": 209,
+      "sha256": "918309935686751e2c3ef0d4d30ed9e586a21da1a747d279858e90ef23a03f17"
     },
     {
       "path": "clips/dg04-chord-progression-01.mid",
@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/disco-house-grooves-midi.zip",
-      "bytes": 40600,
-      "sha256": "d5597b9cfafda942c8c662e1542d63fadad0ada936edd7fa810dea3bf47f97c0"
+      "bytes": 41714,
+      "sha256": "b982d26f37c5afb1b5d6a4fe8bd7ffa152ca4071453c7e8659478938070ab413"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10495,
-      "sha256": "35336b181535a16750a3effb67bd33a5647fd04e6fa86274bcae031a5d3ecbef"
+      "bytes": 10738,
+      "sha256": "fb9274b41c5a1b24c54775ea843a0b7f3a6cfc08afa0541069303d28e6385bca"
     },
     {
       "path": "midi/dg01-mirror-room/chord_pulse.mid",
@@ -468,8 +468,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4092,
-      "sha256": "9e1c0a11699d71f425ac4a3e4a882a5556f033f0447e65705b42dba666493d83"
+      "bytes": 4251,
+      "sha256": "a2e70549f00d29a55cf35cf13492dfb00b305e8f831e41559c2e96f07f815e1c"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 1137,
+      "sha256": "25254aae5dd1ff15fa2550a87d3a24c0695247746012e7ae09c8f689650ef258"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -513,8 +518,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 8216,
-      "sha256": "c18289fd14439dfbfd5013f19af808d351550b0de5b55f5a648165c876674732"
+      "bytes": 8999,
+      "sha256": "1d230ce806095d84e9172c594c0057b0939c0658c9789a5523de3896791f923b"
     },
     {
       "path": "tools/render_motion_preview.py",
@@ -525,11 +530,6 @@
       "path": "tools/validate_release.py",
       "bytes": 13763,
       "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
-    },
-    {
-      "path": "REVISION.md",
-      "bytes": 825,
-      "sha256": "3e8d23c9efa44d92d8dce0c06d4743b4bb25527e58ce26db6bd15f28d2282c7a"
     }
   ]
 }

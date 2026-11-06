@@ -5,3 +5,7 @@ The 16 focused chord clips were recomposed after a catalog comparison found matc
 All 16 four-bar chord clips parsed successfully, were checked for same-pitch overlaps, and had distinct note-event signatures. A bounded comparison found no exact match against the other compared principal melody files and focused clips. This does not establish musical quality, exhaustive originality clearance, or a human listening review.
 
 The original `v1.0.0` tag is unchanged and points to the earlier release. The current product page offers the revised archive.
+
+## Bass clip variations
+
+The 16 focused bass clips were recomposed after within-pack comparison found the four variations for each study shared pitch-normalized events. Full studies, simple-synth audio and animated video are unchanged. Technical checks do not establish musical quality or listening review.
