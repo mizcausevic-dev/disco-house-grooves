@@ -65,3 +65,7 @@ The current archive includes 16 recomposed chord clips. The original `v1.0.0` ta
 ## Bass clip revision
 
 The current archive includes revised four-bar bass clips. The full studies and previews are unchanged. See [REVISION.md](REVISION.md).
+
+## MIDI buyer license
+
+See [MIDI Buyer License v1.0](MIDI-BUYER-LICENSE-v1.0.txt), included in the MIDI download.

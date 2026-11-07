@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/disco-house-grooves-midi.zip",
-      "bytes": 41714,
-      "sha256": "b982d26f37c5afb1b5d6a4fe8bd7ffa152ca4071453c7e8659478938070ab413"
+      "bytes": 42701,
+      "sha256": "957f4d0bdc96079ce442a524edb6f299321c6ac5e62fb2274204681d0ef72ddb"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10738,
-      "sha256": "fb9274b41c5a1b24c54775ea843a0b7f3a6cfc08afa0541069303d28e6385bca"
+      "bytes": 10928,
+      "sha256": "3ab6a82a721862e8bc6df8483441bfdec75b23f62dbb3e0154619d6cb385878b"
     },
     {
       "path": "midi/dg01-mirror-room/chord_pulse.mid",
@@ -457,6 +457,11 @@
       "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/disco-house-grooves-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "c2fd816392af83007255b92a9d4af570043be9a53b5718bb24510d699b52d31b"
@@ -468,8 +473,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4251,
-      "sha256": "a2e70549f00d29a55cf35cf13492dfb00b305e8f831e41559c2e96f07f815e1c"
+      "bytes": 4366,
+      "sha256": "c040303cca94d8e1d63553c4731b4ed49cb6507228c83635a6e03f79c7d17045"
     },
     {
       "path": "REVISION.md",
